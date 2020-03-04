@@ -1,0 +1,18 @@
+.encabezado{
+    font-weight: bold;
+  }
+
+.texto{
+    font-size: 1.2em;
+}
+
+.color{
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.posicion{
+    height: 635px;
+    width: 1900px;
+}
