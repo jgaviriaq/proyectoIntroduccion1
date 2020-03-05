@@ -16,3 +16,44 @@
     height: 635px;
     width: 1900px;
 }
+
+.encabezado1{
+    font-weight: bold;
+    color: green;
+}
+
+.posicion1{
+    height: 900px;
+    width: 1300px;
+}
+
+.parrafo1{
+    color: green;
+    text-align: justify;
+    font-style: italic;
+    font-size: larger;
+}
+
+.encabezado2{
+font-weight: bold;
+color: blue;
+}
+
+.posicion2{
+    height: 900px;
+    width: 1300px;
+}
+
+.parrafo2{
+    color: blue;
+    font-style: italic;
+    text-align: justify/left;
+    font-size: larger;
+}
+
+.parrafo2_1{
+    color: blue;
+    font-style: italic;
+    font-size: small;
+   
+}
